@@ -1,0 +1,105 @@
+#container{
+  background:linear-gradient(white,rgb(50, 78, 104)) ;
+}
+h1{
+display: flex;
+text-align: center;
+flex-direction: column;
+line-height: 24px;
+background-color:#1b5a5a ;
+color: #fff;
+padding: 3rem;
+border-radius: 18px;
+}
+
+.price{
+  background-color: rgb(0, 183, 255);
+  padding: 1rem;
+  font-size: 1.5rem;
+  color: #fff;
+  border-radius:12px;
+  border: none;
+  cursor:pointer
+  
+}
+#span1{
+  color: white;
+  font-size: 18px;
+  font-family:sans-serif;
+}
+.button{
+  background-color: rgba(247, 42, 42, 0.918);
+  margin: 20px;
+  padding-right: 12px;
+  padding-left: 12px;
+  font-size: 3rem;
+  color: #fff;
+  border-radius:12px;
+  border: none;
+  cursor: pointer;
+}
+p{
+  font-size: 4rem;
+font-style: italic;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+}
+img{
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
+img:hover{
+  background-color: rgb(34, 129, 34);
+}
+button:hover{
+  background: rgba(0, 0, 0, 0.644);
+}
+.youtube{
+  background-color:#ff0000;
+  padding:1rem;
+  border:none;
+  border-radius:12px;
+  color: #fff;
+  font-size:2rem;
+  margin: 20px;
+}
+#paypal{
+  background-color:hsl(209, 89%, 58%);
+  padding:1rem;
+  border:none;
+  border-radius:12px;
+  color: #fff;
+  font-size:2rem;
+  margin: 20px;
+}
+#onupay{
+  text-align:center;
+  background-color:rgb(99, 60, 60);
+  padding:1rem;
+  border:none;
+  border-radius:12px;
+  color: #fff;
+  font-size:2rem;
+  margin: 10px;
+}
+#product{
+  background-color: rgb(0, 183, 255);
+  padding: 30px;
+  font-size: 3rem;
+  font-weight: bold;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  color: #fff;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+.active{
+  background-color: rgb(211, 205, 205);
+}
+.img{
+  background-color: rgb(13, 19, 14);
+  padding: 10px;
+}
+
