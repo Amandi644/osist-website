@@ -37,7 +37,7 @@ onuImgs.forEach((img) => {
     if (amandiOnu.textContent === "Subscribe") {
       amandiOnu.textContent = "Subscribed now!";
     } else {
-      amandiOnu.textContent = "Biafra Republic";
+      amandiOnu.textContent = "Republic of Oil";
     }
 
     amandiOnu.addEventListener("click", () => {
