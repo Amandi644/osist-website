@@ -37,7 +37,7 @@ onuImgs.forEach((img) => {
     if (amandiOnu.textContent === "Subscribe") {
       amandiOnu.textContent = "Subscribed now!";
     } else {
-      amandiOnu.textContent = "Republic of Oil!";
+      amandiOnu.textContent = "Contact us for more information about our products!";
     }
 
     amandiOnu.addEventListener("click", () => {
